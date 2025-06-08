@@ -1,0 +1,73 @@
+[
+  {
+    "student_id": "25ee3dd9-e388-4156-907d-55305eeda77c",
+    "first_name": "Robert",
+    "last_name": "Bullock",
+    "email": "michael35@gmail.com",
+    "skills": [
+      "CSS",
+      "HTML",
+      "Python",
+      "React"
+    ],
+    "projects": [
+      {
+        "title": "Leader Project",
+        "description": "Into nice speak four others enough down.",
+        "tech_stack": [
+          "CSS",
+          "HTML",
+          "Python",
+          "React"
+        ],
+        "project_url": "http://wu-smith.com/"
+      },
+      {
+        "title": "Behavior Project",
+        "description": "Whole might although offer.",
+        "tech_stack": [
+          "CSS",
+          "HTML",
+          "Python",
+          "React"
+        ],
+        "project_url": "http://williams-hill.com/"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Mendoza PLC",
+        "role": "Software Intern",
+        "start_date": "2023-10-30",
+        "end_date": "2024-09-13",
+        "description": "Personal apply senior ask."
+      }
+    ],
+    "certifications_and_licenses": [
+      {
+        "title": "Frontend Developer Certificate",
+        "issuing_organization": "freeCodeCamp",
+        "credential_id": "FCC12345",
+        "credential_url": "https://freecodecamp.org/certification/fcc12345",
+        "issue_date": "2023-11-09",
+        "expiration_date": null
+      }
+    ],
+    "job_preferences": {
+      "desired_roles": [
+        "Software Developer Intern"
+      ],
+      "preferred_locations": [
+        "Chennai",
+        "Bangalore",
+        "Remote"
+      ],
+      "employment_type": [
+        "Internship"
+      ],
+      "remote": false
+    }
+  }
+]
+  
+  
